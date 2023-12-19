@@ -1,0 +1,22 @@
+/Java Fundamentals/Introduction/
+.idea
+.gradle
+gradle
+build.gradle
+course-info.yaml
+gradlew
+gradlew.bat
+settings.gradle
+/Java Fundamentals/section-info.yaml
+/Java Fundamentals/Quiz/
+/Java Fundamentals - coding/section-info.yaml
+*.css
+**/build
+**/out
+BaseTest.java
+*.html
+*.yaml
+*.md
+**/test
+.idea
+out
